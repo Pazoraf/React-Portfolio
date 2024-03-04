@@ -1,0 +1,74 @@
+[
+
+    {
+        "id": 1,
+        "name": "Team Profile Generator",
+        "description": "CLI application to generate a HTML page",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+    
+    {
+        "id": 2,
+        "name": "README Generator",
+        "description": "CLI application to generate a README file",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+    
+    {
+        "id": 3,
+        "name": "Balanced Plates Meal Planner",
+        "description": "Collaborative team project to utilise API's to provide a product to a consumer",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+    
+    {
+        "id": 4,
+        "name": "API Weather Dashboard",
+        "description": "Weather dashboard to display weather for multiple cities using openweathermap API",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+    
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "description": "Calendar application that allows a user to save events.",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+    
+    {
+        "id": 6,
+        "name": "Code Quiz",
+        "description": "Timed coding quiz with multiple-choice questions.",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+
+    {
+        "id": 7,
+        "name": "Password Generator",
+        "description": "Generating a random password based on user criteria.",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    },
+
+    {
+        "id": 8,
+        "name": "Console Finances",
+        "description": "Analysing the financial records of a company.",
+        "github": "",
+        "deployed": "",
+        "image": ""
+    }
+]
