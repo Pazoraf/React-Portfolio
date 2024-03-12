@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Team Profile Generator",
         "description": "CLI application to generate a HTML page",
-        "github": "",
+        "github": "https://github.com/Pazoraf/Team-Profile-Generator",
         "deployed": "",
         "image": ""
     },
@@ -13,7 +13,7 @@
         "id": 2,
         "name": "README Generator",
         "description": "CLI application to generate a README file",
-        "github": "",
+        "github": "https://github.com/Pazoraf/Readme-generator",
         "deployed": "",
         "image": ""
     },
@@ -22,7 +22,7 @@
         "id": 3,
         "name": "Balanced Plates Meal Planner",
         "description": "Collaborative team project to utilise API's to provide a product to a consumer",
-        "github": "",
+        "github": "https://github.com/Pazoraf/Balanced-Plates-Meal-Planner",
         "deployed": "",
         "image": ""
     },
@@ -31,8 +31,8 @@
         "id": 4,
         "name": "API Weather Dashboard",
         "description": "Weather dashboard to display weather for multiple cities using openweathermap API",
-        "github": "",
-        "deployed": "",
+        "github": "https://github.com/Pazoraf/API-Weather-Dashboard",
+        "deployed": "https://pazoraf.github.io/API-Weather-Dashboard/",
         "image": ""
     },
     
@@ -40,8 +40,8 @@
         "id": 5,
         "name": "Work Day Scheduler",
         "description": "Calendar application that allows a user to save events.",
-        "github": "",
-        "deployed": "",
+        "github": "https://github.com/Pazoraf/Work-Day-Scheduler-Alex-Flaherty",
+        "deployed": "https://pazoraf.github.io/Work-Day-Scheduler-Alex-Flaherty/",
         "image": ""
     },
     
@@ -49,8 +49,8 @@
         "id": 6,
         "name": "Code Quiz",
         "description": "Timed coding quiz with multiple-choice questions.",
-        "github": "",
-        "deployed": "",
+        "github": "https://github.com/Pazoraf/Code-Quiz-Alex-Flaherty",
+        "deployed": "https://pazoraf.github.io/Code-Quiz-Alex-Flaherty/",
         "image": ""
     },
 
@@ -58,8 +58,8 @@
         "id": 7,
         "name": "Password Generator",
         "description": "Generating a random password based on user criteria.",
-        "github": "",
-        "deployed": "",
+        "github": "https://github.com/Pazoraf/Password-Generator-Using-JavaScript",
+        "deployed": "https://pazoraf.github.io/Password-Generator-Using-JavaScript/",
         "image": ""
     },
 
@@ -67,8 +67,8 @@
         "id": 8,
         "name": "Console Finances",
         "description": "Analysing the financial records of a company.",
-        "github": "",
-        "deployed": "",
+        "github": "https://github.com/Pazoraf/Console-Finances-Alexander-Flaherty",
+        "deployed": "https://pazoraf.github.io/Console-Finances-Alexander-Flaherty/",
         "image": ""
     }
 ]
