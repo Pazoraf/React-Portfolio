@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Image from 'react-bootstrap/Image';
 
-function HeaderAndFooterExample() {
+function Home() {
   return (
     <Card className="text-center">
       <Card.Header>Featured</Card.Header>
@@ -20,4 +20,4 @@ function HeaderAndFooterExample() {
   );
 }
 
-export default HeaderAndFooterExample;
+export default Home;
