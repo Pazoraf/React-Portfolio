@@ -6,7 +6,7 @@
         "description": "CLI application to generate a HTML page",
         "github": "https://github.com/Pazoraf/Team-Profile-Generator",
         "deployed": "",
-        "image": ""
+        "image": "src/assets/images/1deployment.png"
     },
     
     {
@@ -15,7 +15,7 @@
         "description": "CLI application to generate a README file",
         "github": "https://github.com/Pazoraf/Readme-generator",
         "deployed": "",
-        "image": ""
+        "image": "src/assets/images/2deployment.png"
     },
     
     {
@@ -24,7 +24,7 @@
         "description": "Collaborative team project to utilise API's to provide a product to a consumer",
         "github": "https://github.com/Pazoraf/Balanced-Plates-Meal-Planner",
         "deployed": "",
-        "image": ""
+        "image": "src/assets/images/3deployment.png"
     },
     
     {
@@ -33,7 +33,7 @@
         "description": "Weather dashboard to display weather for multiple cities using openweathermap API",
         "github": "https://github.com/Pazoraf/API-Weather-Dashboard",
         "deployed": "https://pazoraf.github.io/API-Weather-Dashboard/",
-        "image": ""
+        "image": "src/assets/images/4deployment.png"
     },
     
     {
@@ -42,7 +42,7 @@
         "description": "Calendar application that allows a user to save events.",
         "github": "https://github.com/Pazoraf/Work-Day-Scheduler-Alex-Flaherty",
         "deployed": "https://pazoraf.github.io/Work-Day-Scheduler-Alex-Flaherty/",
-        "image": ""
+        "image": "src/assets/images/5deployment.png"
     },
     
     {
@@ -51,7 +51,7 @@
         "description": "Timed coding quiz with multiple-choice questions.",
         "github": "https://github.com/Pazoraf/Code-Quiz-Alex-Flaherty",
         "deployed": "https://pazoraf.github.io/Code-Quiz-Alex-Flaherty/",
-        "image": ""
+        "image": "src/assets/images/6deployment.png"
     },
 
     {
@@ -60,7 +60,7 @@
         "description": "Generating a random password based on user criteria.",
         "github": "https://github.com/Pazoraf/Password-Generator-Using-JavaScript",
         "deployed": "https://pazoraf.github.io/Password-Generator-Using-JavaScript/",
-        "image": ""
+        "image": "src/assets/images/7deployment.png"
     },
 
     {
@@ -69,6 +69,6 @@
         "description": "Analysing the financial records of a company.",
         "github": "https://github.com/Pazoraf/Console-Finances-Alexander-Flaherty",
         "deployed": "https://pazoraf.github.io/Console-Finances-Alexander-Flaherty/",
-        "image": ""
+        "image": "src/assets/images/8deployment.png"
     }
 ]
