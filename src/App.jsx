@@ -6,8 +6,8 @@ import NavbarComponent from './components/nav';
 import Home from './components/pages/home/home';
 import ProjectGallery from './components/pages/Project Gallery/ProjectGallery';
 import ContactComponent from './components/pages/Contact me/contact'
-import projects from './projects.json';
-import contact from './contact.json'
+import projects from './assets/utilities/projects.json';
+import contact from './assets/utilities/contact.json'
 import './styles.css'
 
 function App() {
