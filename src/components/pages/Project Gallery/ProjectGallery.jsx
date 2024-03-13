@@ -5,7 +5,7 @@ import './ProjectGallery.css';
 function ProjectGallery(props) {
   return (
     <div className="row d-flex">
-    <Card className="vertical-card col">
+    <Card className="vertical-card col main">
       <Card.Img variant="top" src={props.image} />
       <Card.Body>
         <Card.Title>{props.name}</Card.Title>
@@ -14,8 +14,12 @@ function ProjectGallery(props) {
         </Card.Text>
       </Card.Body>
       <Card.Body>
+        <div>
         <Card.Link href={props.deploy}>Link to deployment</Card.Link>
+        </div>
+        <div>
         <Card.Link href={props.github}>Link to GitHub repo.</Card.Link>
+        </div>
       </Card.Body>
     </Card>
     </div>

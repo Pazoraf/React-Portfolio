@@ -1,12 +1,13 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Image from 'react-bootstrap/Image';
+import './home.css'
 
 function Home() {
   return (
     <Card className="text-center">
-      <Card.Header>Alexander Flaherty</Card.Header>
-      <Card.Body>
+      <Card.Header className="header">Alexander Flaherty</Card.Header>
+      <Card.Body className="main">
         <Image src="src/assets/images/headshot.png"/>
         <Card.Title>Welcome to my portfolio page!</Card.Title>
         <Card.Text>
