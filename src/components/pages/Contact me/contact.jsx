@@ -1,10 +1,11 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card';
+import './contact.css'
 
 function ContactComponent(props) {
   return (
     <div className="row d-flex">
-    <Card className="vertical-card col">
+    <Card className="vertical-card col main">
       <Card.Img variant="top" src={props.image} />
       <Card.Body>
       </Card.Body>

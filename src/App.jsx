@@ -8,12 +8,13 @@ import ProjectGallery from './components/pages/Project Gallery/ProjectGallery';
 import ContactComponent from './components/pages/Contact me/contact'
 import projects from './projects.json';
 import contact from './contact.json'
+import './styles.css'
 
 function App() {
   return (
     <Router>
       <NavbarComponent />
-      <div className="container-fluid">
+      <div className="app-container">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="Projects" element={
