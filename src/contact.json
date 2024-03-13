@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "image": "src/assets/images/linkedin.png",
+        "description": "LinkedIn",
+        "link": "https://www.linkedin.com/in/alexander-flaherty-bb33552ba/",
+        "linktext": "Go to my LinkedIn"    
+    },
+    {
+        "id": "2",
+        "image": "src/assets/images/email.png",
+        "description": "Email Address",
+        "link": "mailto:alexander.flaherty@hotmail.com",
+        "linktext": "Send me an email"
+    },
+    {
+        "id": "3",
+        "image": "src/assets/images/github.png",
+        "description": "GitHub Profile",
+        "link": "https://github.com/Pazoraf",
+        "linktext": "Go to my GitHub"
+    }
+]

@@ -5,7 +5,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarComponent from './components/nav';
 import Home from './components/pages/home/home';
 import ProjectGallery from './components/pages/Project Gallery/ProjectGallery';
+import ContactComponent from './components/pages/Contact me/contact'
 import projects from './projects.json';
+import contact from './contact.json'
 
 function App() {
   return (
@@ -32,6 +34,22 @@ function App() {
               </Row>
             </CardGroup>
           } />
+          <Route path="Contact" element={            
+          <CardGroup>
+              <Row xs={1} md={2} lg={4} className="g-4">
+                {contact.map((contact) => (
+                  <Col key={contact.id}>
+                    <ContactComponent
+                    image={contact.image}
+                    description={contact.decription}
+                    link={contact.link}
+                    linktext={contact.linktext}
+                    />
+                  </Col>
+                ))}
+              </Row>
+            </CardGroup>
+          }/>
         </Routes>
       </div>
     </Router>
