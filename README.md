@@ -39,9 +39,8 @@ I wanted to include information about myself, and show examples of previous proj
 
 Resources:
 - [W3Schools Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)
-- [W3Schools Classes](https://www.w3schools.com/REACT/DEFAULT.ASP)
+- [W3Schools React](https://www.w3schools.com/REACT/DEFAULT.ASP)
 - [W3Schools Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
-- [freeCodeCamp recursion in javascript](https://www.freecodecamp.org/news/recursion-in-javascript/)
 - [React Bootstrap](https://react-bootstrap.netlify.app/)
 
 ## License
